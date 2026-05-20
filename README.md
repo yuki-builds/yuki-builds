@@ -17,8 +17,8 @@ Qiita / Zenn / X / GitHub を横断した、過去記事のクロスメディア
 
 ## 発信
 
-- X: （次のステップで取得後に追記）
-- Zenn: （次のステップで取得後に追記）
+- X: [@Compolio_jp](https://x.com/Compolio_jp)
+- Zenn: [yuki_builds](https://zenn.dev/yuki_builds)
 - 進捗は毎日 X に書いていきます。
 
 ## なぜビルドインパブリックか
