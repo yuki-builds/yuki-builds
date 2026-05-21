@@ -1,44 +1,21 @@
-# yuki-builds
+## 👋 yuki-builds
 
-副業エンジニア。Compolio を Day 0→90 で公開ビルド中（現在 Day 5）。
+副業で SaaS を作っているエンジニアです。
+週 12 時間の制約で、本業を犠牲にせず開発します。
 
-## いま作っているもの
+### 🛠 いま作っているもの
 
 **Compolio** — 書いた記事が、勝手に資産になる仕組み。
-Qiita / Zenn / X / GitHub を横断した、過去記事のクロスメディア再利用 + 鮮度監視。
+1 本の技術記事を X / LinkedIn / YouTube 台本に展開し、古くなった記事を検知する SaaS。
 
-## ロードマップ（Day 0 → 90）
+### 📡 ビルドインパブリック
 
-- [x] Day 0-5    戦略策定、商標一次クリア（Compolio）、GitHub セットアップ
-- [ ] Day 5-30   メディア立ち上げ（X 日次 / Zenn 週1）
-- [ ] Day 30-60  リードマグネット「過去記事健康診断」MVP
-- [ ] Day 60-90  機能 B（クロスメディア変換）プロトタイプ
-- [ ] Day 91+    機能 B Beta 公開
+- 開幕宣言：https://x.com/Compolio_jp/status/2057419726033416388
+- 日次進捗：[@Compolio_jp](https://x.com/Compolio_jp)
+- 技術記事：[Zenn @yuki_builds](https://zenn.dev/yuki_builds)
 
-## 発信
+### 🗓 進行状況
 
-- X: [@Compolio_jp](https://x.com/Compolio_jp)
-- Zenn: [yuki_builds](https://zenn.dev/yuki_builds)
-- 進捗は毎日 X に書いていきます。
-
-## なぜビルドインパブリックか
-
-副業エンジニアの「発信が続かない／過去記事が腐っていく」という
-自分の問題から始めています。週 12h で何が作れるか、
-失敗も数字も全部公開します。
-
-
-<!--
-**yuki-builds/yuki-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2026-05-15：Day 1 / Compolio 名称確定（J-PlatPat スクリーニング済み）
+- 2026-05-21：Day 7 / @Compolio_jp 開幕宣言投稿
+- 2026-08-13：Day 90 / ベータ版公開予定
